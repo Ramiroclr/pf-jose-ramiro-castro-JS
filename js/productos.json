@@ -1,0 +1,132 @@
+[
+    {
+        "id": "muebleCocina",
+        "titulo": "Alacena levadiza 3 cuerpos",
+        "imagen": "../img/cocina/alacena.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "cocina"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "muebleCocina1",
+        "titulo": "Mueble de cocina Blanco",
+        "imagen": "../img/cocina/blanco.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "cocina"
+        },
+        "precio": 23000
+    },
+    {
+        "id": "muebleCocina2",
+        "titulo": "Mueble completo de cocina",
+        "imagen": "../img/cocina/cocina-completa.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "cocina"
+        },
+        "precio": 210000
+    },
+    {
+        "id": "muebleCocina3",
+        "titulo": "Despensa vertical laminada",
+        "imagen": "../img/cocina/despensa.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "cocina"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "muebleCocina4",
+        "titulo": "Despensa desplegable",
+        "imagen": "../img/cocina/desplegable.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "cocina"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "dormitorio",
+        "titulo": "Cama de algarrobo de 2 plazas",
+        "imagen": "../img/dormitorio/cama.jpg",
+        "categoria": {
+            "nombre": "Dormitorio",
+            "id": "dormitorio"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "dormitorio1",
+        "titulo": "Cómoda",
+        "imagen": "../img/dormitorio/comoda.jpg",
+        "categoria": {
+            "nombre": "Dormitorio",
+            "id": "dormitorio"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "dormitorio2",
+        "titulo": "Mesa de luz",
+        "imagen": "../img/dormitorio/mesa-de-luz.jpg",
+        "categoria": {
+            "nombre": "Dormitorio",
+            "id": "dormitorio"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "dormitorio3",
+        "titulo": "Vestidor de 3 cuerpos",
+        "imagen": "../img/dormitorio/vestidor.jpg",
+        "categoria": {
+            "nombre": "Dormitorio",
+            "id": "dormitorio"
+        },
+        "precio": 375000
+    },
+    {
+        "id": "oficina",
+        "titulo": "Archivero bajo",
+        "imagen": "../img/oficina/archivero.jpg",
+        "categoria": {
+            "nombre": "Oficina",
+            "id": "oficina"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "oficina1",
+        "titulo": "Escritorio compartido",
+        "imagen": "../img/oficina/escritorio-compartido.jpg",
+        "categoria": {
+            "nombre": "Oficina",
+            "id": "oficina"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "oficina2",
+        "titulo": "Escritorio en L",
+        "imagen": "../img/oficina/escritorio-en-l.jpg",
+        "categoria": {
+            "nombre": "Oficina",
+            "id": "oficina"
+        },
+        "precio": 147000
+    },
+    {
+        "id": "oficina3",
+        "titulo": "Escritorio con cajonera",
+        "imagen": "../img/oficina/escritorio.webp",
+        "categoria": {
+            "nombre": "Oficina",
+            "id": "oficina"
+        },
+        "precio": 110000
+    }
+]
